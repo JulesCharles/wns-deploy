@@ -44,3 +44,6 @@
 172.18.0.1 - - [28/Mar/2023:12:02:37 +0000] "GET /static/media/blank-profile-picture-female.3a3ccff1.png HTTP/1.1" 200 12891 "https://lovelace2.wns.wilders.dev/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
 172.18.0.1 - - [28/Mar/2023:12:02:37 +0000] "GET /manifest.json HTTP/1.1" 304 0 "https://lovelace2.wns.wilders.dev/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
 172.18.0.1 - - [28/Mar/2023:12:02:37 +0000] "GET /logo192.png HTTP/1.1" 304 0 "https://lovelace2.wns.wilders.dev/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+178.62.216.118 - - [28/Mar/2023:12:17:40 +0000] "GET /aaa9 HTTP/1.1" 200 3014 "-" "Mozilla/5.0 zgrab/0.x"
+178.62.216.118 - - [28/Mar/2023:12:17:42 +0000] "GET /aab8 HTTP/1.1" 200 3014 "-" "Mozilla/5.0 zgrab/0.x"
+178.62.216.118 - - [28/Mar/2023:12:17:43 +0000] "GET / HTTP/1.1" 200 3014 "-" "Mozilla/5.0 zgrab/0.x"
